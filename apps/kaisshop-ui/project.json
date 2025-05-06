@@ -1,0 +1,9 @@
+{
+  "name": "kaisshop-ui",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/kaisshop-ui",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project kaisshop-ui --web",
+  "targets": {}
+}
